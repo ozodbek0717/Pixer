@@ -1,0 +1,143 @@
+
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.header-logo-link{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 325px;
+}
+.header-content-wrapper{
+    display: inline-block;
+    vertical-align: middle;
+}
+.header-list{
+    display: inline-block;
+    vertical-align: middle;
+}
+.header-item{
+    display: inline-block;
+}
+.header-item-link{
+    color: #000000;
+    text-decoration: none;
+    padding: 16px;
+}
+.header-phone-number{
+    align-content: center;
+    display: inline-block;
+    margin-left: 8px;
+    vertical-align: middle;
+    background-color: #00BAFC;
+    color: white;
+    border: transparent;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+}
+.hero-section{
+    padding: 80px 0;
+}
+.hero-content-wrapper{
+    display: inline-block;
+    width: 470px;
+    vertical-align: middle;
+    text-align: start;
+    margin-right: 172px;
+}
+.hero-title{
+    color: #000000;
+}
+.hero-description{
+    color: #000000;
+}
+.hero-button{
+    padding: 8px 16px;
+    background-color:#00BAFC;
+    color: white;
+    border-radius: 5px;
+    border: transparent;
+}
+.hero-img{
+    vertical-align: middle;
+}
+.services-section{
+    padding: 56px o;
+}
+.services-content-wrapper{
+    text-align: center;
+    width: 719px;
+    margin: 0 auto;
+}
+.services-tittle{
+   color: #000000;   
+   font-weight: 700;
+   font-size: 24px;
+   line-height: 31.2px;
+   letter-spacing: 0%;
+}
+.services-description{
+color: #000000;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0%;
+}
+.wrapper{
+    text-align: center;
+    margin-top: 24px;
+}
+.wrapper-img{
+    width: 320px;
+    padding: 24px 0;
+    display: inline-block;
+    box-shadow: 0px 8px 8px 0px #0000001A;
+    margin-left:70px ;
+}
+.remover-margin{
+    margin-left: 0;
+}
+.wrapper-img1{
+    background-color:#0000001A ;
+}
+.wrapper-img2{
+    background-color:#0000001A ;
+}
+.wrapper-img3{
+    background-color:#0000001A ;
+}
+.top-card{
+    text-align: center;
+    margin-top: 24px;
+}
+.top-card-img{
+    width: 320px;
+    padding: 24px o;
+    display: inline-block;
+    box-shadow: 0px 8px 8px 0px #0000001A;
+    margin-left:70px ;
+}
+.top-card-img1{
+    background-color: #0000001A;
+}
+.top-card-img2{
+    background-color: #0000001A;
+}
+.service-link-bottom-wrapper{
+    text-align: center;
+    margin-top: 40px;
+}
+.service-order-btm{
+    margin-right: 16px;
+    padding: 8px 16px;
+    background-color:#00BAFC;
+    color: white;
+    border-radius: 5px;
+    border: transparent;
+}
+.service-link{
+    color: #00BAFC;
+}
